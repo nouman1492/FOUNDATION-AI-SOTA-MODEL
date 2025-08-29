@@ -1,0 +1,2 @@
+# FOUNDATION-AI-SOTA-MODEL
+BUILD AI from scratch
